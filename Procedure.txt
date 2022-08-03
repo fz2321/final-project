@@ -1,0 +1,4 @@
+2) Put the data in a csv file, and create a text file documenting the procedure you used to create the csv file.
+
+	Firstly I decided to use USO ETF to signify the oil price change since it is the ETF that related to the oil price change every day, then I want to directly show the impact from the oil, so I choose PPI instead of CPI as my another group of data, I think that from economic standpoint, PPI is directly influenced by oil price because oil is very important in the industrial production every day.
+	Then, I decided to use the google sheet to get all the data I want, the ETF price of USO and the PPI index everyday of USA, around the date of the Russian-Ukrainian war outbreak, which is February 22rd, 2022. I used the function inside google sheet to get all of that, import those date into a csv file as my root document for the further analysis.
